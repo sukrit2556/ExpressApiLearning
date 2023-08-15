@@ -17,7 +17,6 @@ mongoose
 var indexRouter = require("./routes/index");
 var usersRouter = require("./routes/users");
 var products = require("./routes/products");
-
 var app = express();
 
 // view engine setup
